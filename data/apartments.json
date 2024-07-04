@@ -1,0 +1,409 @@
+[
+  {
+    "id": 1,
+    "a": 42.2808,
+    "b": -83.743,
+    "c": "Nice Cozy Apartment",
+    "d": "Walking distance to campus!",
+    "e": [
+      "https://medialibrarycfo.entrata.com/2603/MLv3/3/21/2023/07/03/053525/1117_1279164_596f5bb14affe919.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/3/27/2023/07/03/053535/3195_1279164_5bdc83a298de85.12482796256.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053537/299_1279164_5fabd891339a14.12072541469.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/305_1279164_5fabd89786eb08.17474285625.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053531/31623_1279164_61537e13959e26.72027234238.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/306_1279164_5fabd898661de0.35933061249.jpg"
+    ],
+    "f": 1200,
+    "g": false,
+    "h": "House",
+    "i": 3,
+    "j": 2,
+    "k": 5,
+    "l": "123 Main St, Ann Arbor, MI 48104",
+    "m": ["Pool", "Hot tub", "Rooftop", "Gym", "Dance Room"],
+    "n": ["Hot water"],
+    "o": ["Private"],
+    "p": ["Private"],
+    "q": [
+      "Bed with mattress",
+      "Bed without mattress",
+      "Dedicated workspace",
+      "Clothing storage: closet or dresser",
+      "Window",
+      "Lockable"
+    ],
+    "r": ["TV"],
+    "s": ["Air condition", "Heating"],
+    "t": ["Smoke detector", "Carbon monoxide alarm", "Fire extinguisher"],
+    "u": {
+      "a": 20,
+      "b":[
+      "Wifi",
+      "Electricity",
+      "Gas",
+      "Water",
+      "Trash"
+      ]
+    },
+    "v": {
+      "a": 3,
+      "b":[
+      "Washer",
+      "Dryer"
+      ]
+    },
+    "w": ["Refrigerator", "Microwave", "Dishwasher", "Stove", "Oven", "Coffee machine"],
+    "x": {
+      "a": 50,
+      "b":[
+      "Parking on property"
+      ]
+    },
+    "y": ["Elevator", "Stairs"],
+    "z": "2024-04-20T00:00:00.000Z",
+    "aa": "2024-07-30T00:00:00.000Z",
+    "ab": ["Spring", "Summer"]
+  },
+  {
+    "id": 2,
+    "a": 42.2819,
+    "b": -83.7483,
+    "c": "Nice Cozy House",
+    "d": "Walking distance to the stadium!",
+    "e": [
+      "https://image.uhzcdn.com/house/e4/8f8f6c9cc9c6501f25e55ab021c957059695e5.jpg?x-oss-process=image/resize,m_fill,w_750,h_464,limit_0/interlace,1/quality,q_90/format,png",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/3/27/2023/07/03/053535/3195_1279164_5bdc83a298de85.12482796256.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053537/299_1279164_5fabd891339a14.12072541469.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/305_1279164_5fabd89786eb08.17474285625.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053531/31623_1279164_61537e13959e26.72027234238.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/306_1279164_5fabd898661de0.35933061249.jpg"
+    ],
+    "f": 1000,
+    "g": false,
+    "h": "Apartment",
+    "l": "789 Pine St, Ann Arbor, MI 48103",
+    "m": ["Pool", "Hot tub", "Rooftop", "Gym", "Dance Room"],
+    "n": ["Hot water"],
+    "o": ["Private"],
+    "p": ["Private"],
+    "q": [
+      "Dedicated workspace",
+      "Clothing storage: closet or dresser",
+      "Window",
+      "Lockable"
+    ],
+    "r": ["TV"],
+    "s": ["Air condition", "Heating"],
+    "t": ["Smoke detector", "Carbon monoxide alarm", "Fire extinguisher"],
+    "u": {
+      "v": true,
+      "w": 10
+    },
+    "x": {
+      "y": 0,
+      "z":[
+      "Electricity",
+      "Gas",
+      "Water",
+      "Trash"
+      ]
+    },
+    "aa": {
+      "Dryer": 0,
+      "Washer": 20
+    },
+    "ab": ["Fall", "Winter"],
+    "ac": {
+      "Parking on property": 20,
+      "Parking off property": 0
+    },
+    "ad": ["Elevator", "Stairs"],
+    "ae": "2024-04-20T00:00:00.000Z",
+    "af": "2024-06-20T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "a": 42.2839,
+    "b": -83.7453,
+    "c": "Nice Cozy Apartment",
+    "d": "Walking distance to campus!",
+    "e": [
+      "https://lh3.googleusercontent.com/C36n4Rdf6trxX7Y3aJY-5ejF2RwplORIG1IJMDScRTft7qLwuQ_Ed9TvTcXlfTLgNpoEK_uWr9hpyy4YL8xCoOm9vAI7AX5PhzHIew=s1024-rw",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/3/27/2023/07/03/053535/3195_1279164_5bdc83a298de85.12482796256.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053537/299_1279164_5fabd891339a14.12072541469.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/305_1279164_5fabd89786eb08.17474285625.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053531/31623_1279164_61537e13959e26.72027234238.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/306_1279164_5fabd898661de0.35933061249.jpg"
+    ],
+    "f": 900,
+    "g": false,
+    "h": "Apartment",
+    "l": "789 Pine St, Ann Arbor, MI 48103",
+    "m": ["Pool", "Hot tub", "Rooftop", "Gym", "Dance Room"],
+    "n": ["Hot water"],
+    "o": ["Private"],
+    "p": ["Private"],
+    "q": [
+      "Dedicated workspace",
+      "Clothing storage: closet or dresser",
+      "Window",
+      "Lockable"
+    ],
+    "r": ["TV"],
+    "s": ["Air condition", "Heating"],
+    "t": ["Smoke detector", "Carbon monoxide alarm", "Fire extinguisher"],
+    "u": {
+      "v": true,
+      "w": 10
+    },
+    "x": {
+      "y": 0,
+      "z":[
+      "Electricity",
+      "Gas",
+      "Water",
+      "Trash"
+      ]
+    },
+    "aa": {
+      "Dryer": 0,
+      "Washer": 20
+    },
+    "ab": ["Spring"],
+    "ac": {
+      "Parking on property": 20,
+      "Parking off property": 0
+    },
+    "ad": ["Elevator", "Stairs"],
+    "ae": "2024-04-23T00:00:00.000Z",
+    "af": "2024-08-03T00:00:00.000Z"    
+  },
+  {
+    "id": 4,
+    "a": 42.2729,
+    "b": -83.7499,
+    "c": "Nice Cozy House",
+    "d": "Walking distance to north campus!",
+    "e": [
+      "https://images1.apartments.com/i2/qbnuFQ_R6YjgBSEwMpWSik6iCX1Dtf8_mDrgGg3a-T0/117/hoover-and-greene-ann-arbor-mi-building-photo.jpg?p=1",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/3/27/2023/07/03/053535/3195_1279164_5bdc83a298de85.12482796256.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053537/299_1279164_5fabd891339a14.12072541469.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/305_1279164_5fabd89786eb08.17474285625.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053531/31623_1279164_61537e13959e26.72027234238.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/306_1279164_5fabd898661de0.35933061249.jpg"
+    ],
+    "f": 1300,
+    "g": false,
+    "h": "House",
+    "l": "321 Birch St, Ann Arbor, MI 48104",
+    "m": ["Pool", "Hot tub", "Rooftop", "Gym", "Dance Room"],
+    "n": ["Hot water"],
+    "o": ["Private"],
+    "p": ["Private"],
+    "q": [
+      "Dedicated workspace",
+      "Clothing storage: closet or dresser",
+      "Window",
+      "Lockable"
+    ],
+    "r": ["TV"],
+    "s": ["Air condition", "Heating"],
+    "t": ["Smoke detector", "Carbon monoxide alarm", "Fire extinguisher"],
+    "u": {
+      "v": true,
+      "w": 10
+    },
+    "x": {
+      "y": 0,
+      "z":[
+      "Electricity",
+      "Gas",
+      "Water",
+      "Trash"
+      ]
+    },
+    "aa": {
+      "Dryer": 0,
+      "Washer": 20
+    },
+    "ab": ["Spring", "Summer", "Fall"],
+    "ac": {
+      "Parking on property": 20,
+      "Parking off property": 0
+    },
+    "ad": ["Elevator", "Stairs"],
+    "ae": "2024-05-20T00:00:00.000Z",
+    "af": "2024-08-06T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "a": 42.2689,
+    "b": -83.7319,
+    "c": "Nice Cozy Apartment",
+    "d": "Walking distance to campus!",
+    "e": [
+      "https://reappdata.global.ssl.fastly.net/site_data/bouma/condo_pics/pic_684522.650.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/3/27/2023/07/03/053535/3195_1279164_5bdc83a298de85.12482796256.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053537/299_1279164_5fabd891339a14.12072541469.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/305_1279164_5fabd89786eb08.17474285625.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053531/31623_1279164_61537e13959e26.72027234238.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/306_1279164_5fabd898661de0.35933061249.jpg"
+    ],
+    "f": 1800,
+    "g": false,
+    "h": "Apartment",
+    "l": "987 Elm St, Ann Arbor, MI 48104",
+    "m": ["Pool", "Hot tub", "Rooftop", "Gym", "Dance Room"],
+    "n": ["Hot water"],
+    "o": ["Private"],
+    "p": ["Private"],
+    "q": [
+      "Dedicated workspace",
+      "Clothing storage: closet or dresser",
+      "Window",
+      "Lockable"
+    ],
+    "r": ["TV"],
+    "s": ["Air condition", "Heating"],
+    "t": ["Smoke detector", "Carbon monoxide alarm", "Fire extinguisher"],
+    "u": {
+      "v": true,
+      "w": 10
+    },
+    "x": {
+      "y": 0,
+      "z":[
+      "Electricity",
+      "Gas",
+      "Water",
+      "Trash"
+      ]
+    },
+    "aa": {
+      "Dryer": 0,
+      "Washer": 20
+    },
+    "ab": ["Summer"],
+    "ac": {
+      "Parking on property": 20,
+      "Parking off property": 0
+    },
+    "ad": ["Elevator", "Stairs"],
+    "ae": "2024-05-11T00:00:00.000Z",
+    "af": "2024-06-10T00:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "a": 42.2769,
+    "b": -83.738,
+    "c": "Nice Cozy House",
+    "d": "Walking distance to campus!",
+    "e": [
+      "https://images1.apartments.com/i2/Un4UoYAGGnJE9TiPhJU9ngrjtXdQ7zHOOznqXeQILN4/117/image.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/3/27/2023/07/03/053535/3195_1279164_5bdc83a298de85.12482796256.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053537/299_1279164_5fabd891339a14.12072541469.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/305_1279164_5fabd89786eb08.17474285625.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053531/31623_1279164_61537e13959e26.72027234238.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/306_1279164_5fabd898661de0.35933061249.jpg"
+    ],
+    "f": 1100,
+    "g": false,
+    "h": "House",
+    "l": "654 Cedar St, Ann Arbor, MI 48103",
+    "m": ["Pool", "Hot tub", "Rooftop", "Gym", "Dance Room"],
+    "n": ["Hot water"],
+    "o": ["Private"],
+    "p": ["Private"],
+    "q": [
+      "Dedicated workspace",
+      "Clothing storage: closet or dresser",
+      "Window",
+      "Lockable"
+    ],
+    "r": ["TV"],
+    "s": ["Air condition", "Heating"],
+    "t": ["Smoke detector", "Carbon monoxide alarm", "Fire extinguisher"],
+    "u": {
+      "v": true,
+      "w": 10
+    },
+    "x": {
+      "y": 0,
+      "z":[
+      "Electricity",
+      "Gas",
+      "Water",
+      "Trash"
+      ]
+    },
+    "aa": {
+      "Dryer": 0,
+      "Washer": 20
+    },
+    "ab": ["Spring", "Fall"],
+    "ac": {
+      "Parking on property": 20,
+      "Parking off property": 0
+    },
+    "ad": ["Elevator", "Stairs"],
+    "ae": "2024-04-20T00:00:00.000Z",
+    "af": "2024-08-20T00:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "a": 42.2639,
+    "b": -83.7223,
+    "c": "Nice Cozy Apartment",
+    "d": "Walking distance to campus!",
+    "e": [
+      "https://www.landmarkproperties.com/wp-content/uploads/2023/02/Legacy-at-Ann-Arbor.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/3/27/2023/07/03/053535/3195_1279164_5bdc83a298de85.12482796256.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053537/299_1279164_5fabd891339a14.12072541469.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/305_1279164_5fabd89786eb08.17474285625.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053531/31623_1279164_61537e13959e26.72027234238.jpg",
+      "https://medialibrarycfo.entrata.com/2603/MLv3/5/29/2023/07/03/053534/306_1279164_5fabd898661de0.35933061249.jpg"
+    ],
+    "f": 800,
+    "g": false,
+    "h": "Apartment",
+    "l": "258 Maple St, Ann Arbor, MI 48103",
+    "m": ["Pool", "Hot tub", "Rooftop", "Gym", "Dance Room"],
+    "n": ["Hot water"],
+    "o": ["Private"],
+    "p": ["Private"],
+    "q": [
+      "Dedicated workspace",
+      "Clothing storage: closet or dresser",
+      "Window",
+      "Lockable"
+    ],
+    "r": ["TV"],
+    "s": ["Air condition", "Heating"],
+    "t": ["Smoke detector", "Carbon monoxide alarm", "Fire extinguisher"],
+    "u": {
+      "v": true,
+      "w": 10
+    },
+    "x": {
+      "y": 0,
+      "z":[
+      "Electricity",
+      "Gas",
+      "Water",
+      "Trash"
+      ]
+    },
+    "aa": {
+      "Dryer": 0,
+      "Washer": 20
+    },
+    "ab": ["Fall", "Winter", "Spring"],
+    "ac": {
+      "Parking on property": 20,
+      "Parking off property": 0
+    },
+    "ad": ["Elevator", "Stairs"],
+    "ae": "2024-05-11T00:00:00.000Z",
+    "af": "2024-08-20T00:00:00.000Z"
+  }
+]
