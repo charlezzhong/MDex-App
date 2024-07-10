@@ -1,0 +1,83 @@
+[
+    { 
+      "key": "1", 
+      "coordinate": { 
+        "latitude": 42.278235, 
+        "longitude": -83.738118 
+      }, 
+      "type": "party", 
+      "startTime": "12:10 PM",
+      "endTime": "4:00 PM"
+    },
+    { 
+      "key": "2", 
+      "coordinate": { 
+        "latitude": 42.276135, 
+        "longitude": -83.738118 
+      }, 
+      "type": "pizza", 
+      "startTime": "1:20 PM",
+      "endTime": "4:00 PM" 
+      
+    },
+    { 
+      "key": "3", 
+      "coordinate": { 
+        "latitude": 42.275329, 
+        "longitude": -83.739992 
+      }, 
+      "type": "donut", 
+      "startTime": "11:12 AM",
+      "endTime": "11:50 AM"
+    },
+    { 
+      "key": "4", 
+      "coordinate": { 
+        "latitude": 42.274551, 
+        "longitude": -83.736537 
+      }, 
+      "type": "party", 
+      "startTime": "6:17 PM",
+      "endTime": "4:00 PM" 
+    },
+    { 
+      "key": "5", 
+      "coordinate": { 
+        "latitude": 42.281235, 
+        "longitude": -83.736118 
+      }, 
+      "type": "pizza", 
+      "startTime": "",
+      "endTime": "" 
+    },
+    { 
+      "key": "6", 
+      "coordinate": { 
+        "latitude": 42.276599, 
+        "longitude": -83.735550 
+      }, 
+      "type": "donut", 
+      "startTime": "",
+      "endTime": "" 
+    },
+    { 
+      "key": "7", 
+      "coordinate": { 
+        "latitude": 42.280393, 
+        "longitude": -83.732718 
+      }, 
+      "type": "party", 
+      "startTime": "9:00 AM",
+      "endTime": "4:00 PM" 
+    },
+    { 
+      "key": "10", 
+      "coordinate": { 
+        "latitude": 42.274471, 
+        "longitude": -83.731945 
+      }, 
+      "type": "party", 
+      "startTime": "8:00 AM",
+      "endTime": "4:00 PM" 
+    }
+  ]
